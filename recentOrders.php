@@ -7,9 +7,9 @@
  */
 
                 $dbhost="localhost";
-                $dbuser="id56287_softwareiiitv";
-                $dbpassword="iiitvsoftware";
-                $dbname="id56287_eggafe";
+                $dbuser="root";
+                $dbpassword="1234567";
+                $dbname="awebsite";
 
                 $con= mysqli_connect($dbhost,$dbuser,$dbpassword,$dbname);
 

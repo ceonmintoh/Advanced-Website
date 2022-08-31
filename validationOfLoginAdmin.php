@@ -4,10 +4,9 @@ session_start();
 <!-- connecntion established to database-->
         <?php
                 $dbhost="localhost";
-                $dbuser="id56287_softwareiiitv";
-                $dbpassword="iiitvsoftware";
-                $dbname="id56287_eggafe";
-
+                $dbuser="root";
+                $dbpassword="12345678";
+                $dbname="awebsite";
                 $con= mysqli_connect($dbhost,$dbuser,$dbpassword,$dbname);
 ?>
 
