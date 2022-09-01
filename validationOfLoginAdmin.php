@@ -1,7 +1,7 @@
 <?php 
 session_start();
 ?>
-<!-- connecntion established to database-->
+<!-- connection established to database-->
         <?php
                 $dbhost="localhost";
                 $dbuser="root";
